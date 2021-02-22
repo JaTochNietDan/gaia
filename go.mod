@@ -1,11 +1,11 @@
-module github.com/cosmos/gaia/v4
+module github.com/JaTochNietDan/gaia/v4
 
 go 1.15
 
 require (
 	github.com/btcsuite/btcd v0.21.0-beta
 	github.com/btcsuite/btcutil v1.0.2
-	github.com/JaTochNietDan/cosmos-sdk v0.41.3
+	github.com/JaTochNietDan/cosmos-sdk v0.41.4
 	github.com/ethereum/go-ethereum v1.9.25
 	github.com/gorilla/mux v1.8.0
 	github.com/pkg/errors v0.9.1
