@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/cosmos/cosmos-sdk/server"
-	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
+	"github.com/JaTochNietDan/cosmos-sdk/server"
+	svrcmd "github.com/JaTochNietDan/cosmos-sdk/server/cmd"
 
 	app "github.com/cosmos/gaia/v4/app"
 	"github.com/cosmos/gaia/v4/cmd/gaiad/cmd"

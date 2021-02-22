@@ -191,7 +191,7 @@ gaiad tx --help
 
 ## The Cosmos Standard Transaction
 
-Transactions in Cosmos embed the [Standard Transaction type](https://godoc.org/github.com/cosmos/cosmos-sdk/x/auth#StdTx) from the Cosmos SDK. The Ledger device displays a serialized JSON representation of this object for you to review before signing the transaction. Here are the fields and what they mean:
+Transactions in Cosmos embed the [Standard Transaction type](https://godoc.org/github.com/JaTochNietDan/cosmos-sdk/x/auth#StdTx) from the Cosmos SDK. The Ledger device displays a serialized JSON representation of this object for you to review before signing the transaction. Here are the fields and what they mean:
 
 - `chain-id`: The chain to which you are broadcasting the tx, such as the `gaia-13003` testnet or `cosmoshub-2`: mainnet.
 - `account_number`: The global id of the sending account assigned when the account receives funds for the first time.

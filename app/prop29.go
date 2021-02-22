@@ -18,10 +18,10 @@ import (
 	"github.com/btcsuite/btcd/wire"
 	"github.com/btcsuite/btcutil"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
-	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
-	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
-	distr "github.com/cosmos/cosmos-sdk/x/distribution/types"
+	sdk "github.com/JaTochNietDan/cosmos-sdk/types"
+	authtypes "github.com/JaTochNietDan/cosmos-sdk/x/auth/types"
+	banktypes "github.com/JaTochNietDan/cosmos-sdk/x/bank/types"
+	distr "github.com/JaTochNietDan/cosmos-sdk/x/distribution/types"
 
 	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/common"

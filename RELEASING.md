@@ -40,7 +40,7 @@ releases will be based off of that release.
 
 ### Dependency review
 
-Check the `replace` line in `go.mod` of the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/blob/master/go.mod) for something like:
+Check the `replace` line in `go.mod` of the [Cosmos SDK](https://github.com/JaTochNietDan/cosmos-sdk/blob/master/go.mod) for something like:
 ```
 replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 ```
@@ -81,7 +81,7 @@ This release includes bug fixes for prop29, as well as additional support for IB
 
 As there is a breaking change from Gaia v3, the Gaia module has been incremented to v4.
 
-See the [Cosmos SDK v0.41.0 Release](https://github.com/cosmos/cosmos-sdk/releases/tag/v0.41.0) for details.
+See the [Cosmos SDK v0.41.0 Release](https://github.com/JaTochNietDan/cosmos-sdk/releases/tag/v0.41.0) for details.
 
 ```bash
 $ make distclean build-reproducable
