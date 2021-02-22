@@ -2,10 +2,10 @@
 Gaia is the first implementation of the Cosmos Hub, built using the [Cosmos SDK](https://github.com/JaTochNietDan/cosmos-sdk).  Gaia and other Cosmos Hubs allow fully sovereign blockchains to interact with one another using a protocol called [IBC](https://github.com/cosmos/ics/tree/master/ibc) that enables Inter-Blockchain Communication.
 
 [![codecov](https://codecov.io/gh/cosmos/gaia/branch/master/graph/badge.svg)](https://codecov.io/gh/cosmos/gaia)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cosmos/gaia)](https://goreportcard.com/report/github.com/cosmos/gaia)
-[![license](https://img.shields.io/github/license/cosmos/gaia.svg)](https://github.com/cosmos/gaia/blob/main/LICENSE)
-[![LoC](https://tokei.rs/b1/github/cosmos/gaia)](https://github.com/cosmos/gaia)
-[![GolangCI](https://golangci.com/badges/github.com/cosmos/gaia.svg)](https://golangci.com/r/github.com/cosmos/gaia)
+[![Go Report Card](https://goreportcard.com/badge/github.com/JaTochNietDan/gaia)](https://goreportcard.com/report/github.com/JaTochNietDan/gaia)
+[![license](https://img.shields.io/github/license/cosmos/gaia.svg)](https://github.com/JaTochNietDan/gaia/blob/main/LICENSE)
+[![LoC](https://tokei.rs/b1/github/cosmos/gaia)](https://github.com/JaTochNietDan/gaia)
+[![GolangCI](https://golangci.com/badges/github.com/JaTochNietDan/gaia.svg)](https://golangci.com/r/github.com/JaTochNietDan/gaia)
 
 ## Documentation
 

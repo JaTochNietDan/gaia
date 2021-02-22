@@ -2,7 +2,7 @@
 
 This document collects all of the *breaking changes* from the CHANGELOG.md files
 located in the [Tendermint](https://github.com/tendermint/tendermint), [Cosmos SDK](https://github.com/JaTochNietDan/cosmos-sdk),
-and [Gaia](https://github.com/cosmos/gaia) Github repositories.
+and [Gaia](https://github.com/JaTochNietDan/gaia) Github repositories.
 
 Its purpose is to provide a checklist for potential impact on deployments; however, the changelog located in each repository
 serves other important details, such as bug fixes and feature improvements.

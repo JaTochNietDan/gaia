@@ -85,7 +85,7 @@ import (
 	upgradeclient "github.com/JaTochNietDan/cosmos-sdk/x/upgrade/client"
 	upgradekeeper "github.com/JaTochNietDan/cosmos-sdk/x/upgrade/keeper"
 	upgradetypes "github.com/JaTochNietDan/cosmos-sdk/x/upgrade/types"
-	gaiaappparams "github.com/cosmos/gaia/v4/app/params"
+	gaiaappparams "github.com/JaTochNietDan/gaia/v4/app/params"
 
 	// unnamed import of statik for swagger UI support
 	_ "github.com/JaTochNietDan/cosmos-sdk/client/docs/statik"

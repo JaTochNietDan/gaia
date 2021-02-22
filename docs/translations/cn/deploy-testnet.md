@@ -75,7 +75,7 @@ gaiad start
 
 ```bash
 # Clone the gaia repo
-git clone https://github.com/cosmos/gaia.git
+git clone https://github.com/JaTochNietDan/gaia.git
 
 # Work from the SDK repo
 cd cosmos-sdk
